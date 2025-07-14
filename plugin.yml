@@ -1,0 +1,9 @@
+name: TAXES
+version: "1.0"
+author: ladno_pohui
+main: org.devoxx4kids.spigot.plugin.MyPlugin
+
+commands:
+  taxes_players:
+    description: Показывает список игроков, которые провели на сервере больше 10 минут за неделю и должны заплатить налоги
+    usage: /taxes_players
