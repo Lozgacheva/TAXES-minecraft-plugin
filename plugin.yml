@@ -1,6 +1,6 @@
 name: TAXES
 version: "1.0"
-author: ladno_pohui
+author: eorqpxl
 main: org.devoxx4kids.spigot.plugin.MyPlugin
 
 commands:
