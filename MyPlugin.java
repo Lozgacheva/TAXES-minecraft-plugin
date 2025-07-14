@@ -32,7 +32,6 @@ public class MyPlugin extends JavaPlugin implements Listener, CommandExecutor {
     @Override
     public void onEnable() {
         getLogger().info("TAXES plugin is ON");
-        getLogger().info(ChatColor.GREEN + "как же я люблю волосатых мужиков, которые обмазываются маслов и еб....");
         File file = new File(getDataFolder(), "players.yml");
 
         if (file.exists()){ // если файл ещё не существует — пропускаем
